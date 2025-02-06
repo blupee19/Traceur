@@ -25,7 +25,3 @@ A third-person action game prototype built using **Unreal Engine** and **Bluepri
 - **Scripting:** Blueprints
 - **Animations:** Mixamo
 - **3D Modeling:** Blender
-
-## Contact
-For any inquiries or suggestions, feel free to reach out.
-
