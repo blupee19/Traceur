@@ -1,45 +1,31 @@
-# UE3D_Platformer
+# 3D Parkour/Platformer Third Person Controller
 
-About
+## About
+A third-person action game prototype built using **Unreal Engine** and **Blueprints** with a focus on core movement mechanics and fluid gameplay.
 
-A third-person action game prototype built using Unreal Engine and Blueprints with a focus on core movement mechanics and fluid gameplay.
+## Features
+- **Third-Person Character Movement**
+  - Basic movement, sprinting, and dashing.
+  - Wall running and wall jumping.
+  - Punching and throwing a ninja star projectile made in Blender.
+- **Animation Integration**
+  - Mixamo character animations for running, jumping, and walking.
+  - Integrated with an animation blueprint.
+- **Showcase Level**
+  - A small obstacle course to test and demonstrate mechanics.
+- **Work in Progress**
+  - Refining mechanics and polishing the overall experience for a functional prototype.
 
-Features
+## Development Timeline
+- **Start Date:** October 2024
+- **Current Status:** In Progress
 
-Third-Person Character Movement
+## Tech Stack
+- **Game Engine:** Unreal Engine
+- **Scripting:** Blueprints
+- **Animations:** Mixamo
+- **3D Modeling:** Blender
 
-Basic movement, sprinting, and dashing.
+## Contact
+For any inquiries or suggestions, feel free to reach out.
 
-Wall running and wall jumping.
-
-Punching and throwing a ninja star projectile made in Blender.
-
-Animation Integration
-
-Mixamo character animations for running, jumping, and walking.
-
-Integrated with an animation blueprint.
-
-Showcase Level
-
-A small obstacle course to test and demonstrate mechanics.
-
-Work in Progress
-
-Refining mechanics and polishing the overall experience for a functional prototype.
-
-Development Timeline
-
-Start Date: October 2024
-
-Current Status: In Progress
-
-Tech Stack
-
-Game Engine: Unreal Engine
-
-Scripting: Blueprints
-
-Animations: Mixamo
-
-3D Modeling: Blender
